@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/YOUTREID/milktea-holic/static/css/main.7a2e65e7.chunk.css",
+    "main.js": "/YOUTREID/milktea-holic/static/js/main.d149d979.chunk.js",
+    "main.js.map": "/YOUTREID/milktea-holic/static/js/main.d149d979.chunk.js.map",
+    "runtime-main.js": "/YOUTREID/milktea-holic/static/js/runtime-main.9ab3d95f.js",
+    "runtime-main.js.map": "/YOUTREID/milktea-holic/static/js/runtime-main.9ab3d95f.js.map",
+    "static/css/2.b63eaa2c.chunk.css": "/YOUTREID/milktea-holic/static/css/2.b63eaa2c.chunk.css",
+    "static/js/2.c158411e.chunk.js": "/YOUTREID/milktea-holic/static/js/2.c158411e.chunk.js",
+    "static/js/2.c158411e.chunk.js.map": "/YOUTREID/milktea-holic/static/js/2.c158411e.chunk.js.map",
+    "index.html": "/YOUTREID/milktea-holic/index.html",
+    "precache-manifest.18b6d4a048c0e41d031d650ea1a15d06.js": "/YOUTREID/milktea-holic/precache-manifest.18b6d4a048c0e41d031d650ea1a15d06.js",
+    "service-worker.js": "/YOUTREID/milktea-holic/service-worker.js",
+    "static/css/2.b63eaa2c.chunk.css.map": "/YOUTREID/milktea-holic/static/css/2.b63eaa2c.chunk.css.map",
+    "static/css/main.7a2e65e7.chunk.css.map": "/YOUTREID/milktea-holic/static/css/main.7a2e65e7.chunk.css.map",
+    "static/js/2.c158411e.chunk.js.LICENSE.txt": "/YOUTREID/milktea-holic/static/js/2.c158411e.chunk.js.LICENSE.txt",
+    "static/media/milktea.svg": "/YOUTREID/milktea-holic/static/media/milktea.90f6f1ad.svg",
+    "static/media/p1.jpg": "/YOUTREID/milktea-holic/static/media/p1.bd8c49e9.jpg",
+    "static/media/p2.jpg": "/YOUTREID/milktea-holic/static/media/p2.679ab11a.jpg",
+    "static/media/p3.jpg": "/YOUTREID/milktea-holic/static/media/p3.46d5369f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ab3d95f.js",
+    "static/css/2.b63eaa2c.chunk.css",
+    "static/js/2.c158411e.chunk.js",
+    "static/css/main.7a2e65e7.chunk.css",
+    "static/js/main.d149d979.chunk.js"
+  ]
+}
